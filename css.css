@@ -1,0 +1,13 @@
+body {background-image: url("jkt.jpg");
+	background-size: cover;}
+
+h1{outline-style: solid;
+	outline-color: indigo;}
+
+p {font-family: serif;
+	line-height: 2cm;
+	color: indigo;}
+
+img.rounded-corners {
+	border-radius: 30%;
+}
